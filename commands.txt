@@ -1,0 +1,14 @@
+pip freeze > requirements.txt (to create file , dont create just install )
+
+to install :
+
+pip install -r requirements.txt
+
+open youtube
+open google
+open wikipedia
+
+install pyaudio :
+
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+pip install PyAudio‑0.2.11‑cp37‑cp37m‑win32.whl

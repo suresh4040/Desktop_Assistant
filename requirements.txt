@@ -33,7 +33,7 @@ pyttsx3==2.87
 pytz==2019.2
 pywin32==227
 requests==2.23.0
-rsa==4.0
+rsa==4.1
 selenium==3.141.0
 six==1.13.0
 soupsieve==2.0

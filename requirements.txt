@@ -31,7 +31,7 @@ pygame==1.9.6
 python-utils==2.3.0
 pyttsx3==2.87
 pytz==2019.2
-pywin32==227
+pywin32==301
 requests==2.23.0
 rsa==4.0
 selenium==3.141.0
